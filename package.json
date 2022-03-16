@@ -1,0 +1,16 @@
+{
+  "name": "com.yanicksenn.unity.pools",
+  "version": "1.0.0",
+  "displayName": "Unity-Pools",
+  "description": "This package allowing to pool frequently created and destroyed objects.",
+  "unity": "2020.3",
+  "unityRelease": "30f1",
+  "dependencies": {
+    "com.yanicksenn.unity.tests": "https://github.com/yanicksenn/unity-tests.git#1.2.0"
+  },
+  "keywords": [ ],
+  "author": {
+    "name": "Yanick Senn",
+    "email": "info@yanicksenn.com"
+  }
+}
