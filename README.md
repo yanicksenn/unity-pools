@@ -1,6 +1,6 @@
 # Unity-Pools
 
-Unity3d package allowing to pool frequently created and destroyed objects.
+Unity3d package allowing to pool frequently used GameObjects.
 
 Feedback is welcome.
 
